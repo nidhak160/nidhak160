@@ -141,3 +141,37 @@ A modern healthcare management platform designed to streamline hospital and pati
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhak160&theme=github-dark&hide_border=true&area=true" alt="Nidha K's Contribution Graph" />
 </p>
+
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+I'm currently looking for **Frontend, Full Stack (Django), and Web Development Internship opportunities**.
+
+I'm always excited to collaborate on interesting projects, learn new technologies, and build impactful applications.
+
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/nidhak160">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat. 🚀"</i>
+</p>
+
+
+
