@@ -59,20 +59,22 @@ Modern UI built for B Socio with Hero, Services, Pricing, Demo, Contact CTA and 
 
 `HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
-[![Live](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](YOUR_LIVE_LINK)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/nidhak160/AR-QR-Menu.git)
+[![Live](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)]( https://ar-qr-menu-t1z5.vercel.app)
 
 ---
 
-### 🚦 AI Traffic Management System
+---
+### ☕ Coffee Project
 
-**Smart Traffic Monitoring & Vehicle Detection Dashboard**
+**Modern Coffee Shop Website**
 
-AI-powered traffic management platform featuring Admin Dashboard, Camera Monitoring, Vehicle Detection, Analytics and Reports.
+A stylish and responsive coffee shop website designed to showcase coffee products, menu items, special offers, and contact information.
 
-`Python` `Django` `React` `REST API` `PostgreSQL`
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/nidhak160/coffeprojct](https://github.com/nidhak160/coffeprojct.git))
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](capable-fox-d9db12.netlify.app)
 
 ---
 
