@@ -97,8 +97,6 @@ A responsive fashion model portfolio website with a clean, elegant UI. Designed 
 
 ### 🏥 Medico
 
-### 🏥 Medico
-
 **Healthcare Management Web Application**
 
 A modern healthcare management platform designed to streamline hospital and patient services. Features an intuitive user interface, responsive design, and modules for appointments, patient records, and healthcare management.
