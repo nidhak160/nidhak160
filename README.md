@@ -74,7 +74,7 @@ A stylish and responsive coffee shop website designed to showcase coffee product
 `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/nidhak160/coffeprojct](https://github.com/nidhak160/coffeprojct.git))
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](capable-fox-d9db12.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://capable-fox-d9db12.netlify.app)
 
 ---
 
@@ -88,11 +88,14 @@ A responsive fashion model portfolio website with a clean, elegant UI. Designed 
 
 `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/nidhak160/Fashionmodel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://https://github.com/nidhak160/Fashionmodel.git)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fashionmodeling.onrender.com)
 
 ---
 
 ---
+
+### 🏥 Medico
 
 ### 🏥 Medico
 
@@ -102,7 +105,8 @@ A modern healthcare management platform designed to streamline hospital and pati
 
 `HTML5` `CSS3` `JavaScript` `Responsive Design`
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/nidhak160/Medico)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/nidhak160/Medico)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://medicomed.netlify.app)
 
 <h3 align="center">Tools</h3>
 
