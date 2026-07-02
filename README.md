@@ -60,7 +60,7 @@ Modern UI built for B Socio with Hero, Services, Pricing, Demo, Contact CTA and 
 `HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/nidhak160/AR-QR-Menu.git)
-[![Live](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)]( https://ar-qr-menu-t1z5.vercel.app)
+[![Live](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]( https://ar-qr-menu-t1z5.vercel.app)
 
 ---
 
