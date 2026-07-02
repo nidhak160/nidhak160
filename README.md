@@ -134,3 +134,10 @@ A modern healthcare management platform designed to streamline hospital and pati
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nidhak160&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nidhak160&theme=github-dark&hide_border=true&area=true" alt="Nidha K's Contribution Graph" />
+</p>
