@@ -76,27 +76,31 @@ AI-powered traffic management platform featuring Admin Dashboard, Camera Monitor
 
 ---
 
-### 🏫 Cherpu Block Panchayath Website
+---
 
-**Official website for Cherpu Block Panchayath.**
+### 👗 Fashion Model Website
 
-Responsive government website with services, notices, gallery, announcements and citizen-friendly interface.
+**Modern Fashion Portfolio Website**
 
-`HTML` `CSS` `Bootstrap` `JavaScript`
+A responsive fashion model portfolio website with a clean, elegant UI. Designed to showcase fashion collections, model profiles, galleries, and contact information with a fully mobile-friendly experience.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/nidhak160/Fashionmodel)
 
 ---
 
-### 📷 CCTV Traffic Monitoring
+---
 
-**Live traffic camera monitoring interface.**
+### 🏥 Medico
 
-Dashboard for monitoring CCTV cameras, vehicle status, alerts and traffic analytics.
+**Healthcare Management Web Application**
 
-`React` `CSS` `JavaScript`
+A modern healthcare management platform designed to streamline hospital and patient services. Features an intuitive user interface, responsive design, and modules for appointments, patient records, and healthcare management.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/nidhak160/Medico)
 
 <h3 align="center">Tools</h3>
 
