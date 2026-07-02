@@ -47,6 +47,57 @@ I'm currently working as a **Python Full Stack Developer Intern** at Trycode Inn
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
+
+
+## 🚀 Featured Projects
+
+### 🌐 AR QR Menu Landing Page
+
+**Responsive landing page for restaurants with AR QR Menu solution.**
+
+Modern UI built for B Socio with Hero, Services, Pricing, Demo, Contact CTA and fully responsive design.
+
+`HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+[![Live](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel)](YOUR_LIVE_LINK)
+
+---
+
+### 🚦 AI Traffic Management System
+
+**Smart Traffic Monitoring & Vehicle Detection Dashboard**
+
+AI-powered traffic management platform featuring Admin Dashboard, Camera Monitoring, Vehicle Detection, Analytics and Reports.
+
+`Python` `Django` `React` `REST API` `PostgreSQL`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+---
+
+### 🏫 Cherpu Block Panchayath Website
+
+**Official website for Cherpu Block Panchayath.**
+
+Responsive government website with services, notices, gallery, announcements and citizen-friendly interface.
+
+`HTML` `CSS` `Bootstrap` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
+---
+
+### 📷 CCTV Traffic Monitoring
+
+**Live traffic camera monitoring interface.**
+
+Dashboard for monitoring CCTV cameras, vehicle status, alerts and traffic analytics.
+
+`React` `CSS` `JavaScript`
+
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](YOUR_REPO_LINK)
+
 <h3 align="center">Tools</h3>
 
 <p align="center">
@@ -54,4 +105,22 @@ I'm currently working as a **Python Full Stack Developer Intern** at Trycode Inn
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nidhak160&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhak160&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nidhak160&theme=tokyonight&hide_border=true"/>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nidhak160&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
